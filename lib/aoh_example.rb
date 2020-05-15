@@ -43,7 +43,7 @@ def aoh_lookup(aoh, row, key)
          { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
     
-    job[2][:name]
+    job[][]
 end
 
 def aoh_update(aoh, row, key, new_value)
