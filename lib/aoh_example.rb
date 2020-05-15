@@ -35,6 +35,7 @@ def aoh_lookup(aoh, row, key)
          { name:  "Kate Gompert", occupation: "None" },
          { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
+    
     job
 end
 
