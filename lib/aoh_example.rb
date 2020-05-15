@@ -49,4 +49,5 @@ def aoh_update(aoh, row, key, new_value)
          { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
     job[1][:name] = "Joelle van Dyne (PGOAT)"
+    job
 end
