@@ -48,5 +48,5 @@ def aoh_update(aoh, row, key, new_value)
          { name:  "Kate Gompert", occupation: "None" },
          { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
-    job[] ={ name:  "Don Gately", occupation: "Live-in Staff"}
+    job[1] ={ name:  "Joelle van Dyne (PGOAT)", occupation: "Live-in Staff"}
 end
