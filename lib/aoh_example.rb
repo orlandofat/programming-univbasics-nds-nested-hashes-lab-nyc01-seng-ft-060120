@@ -16,7 +16,7 @@ def assembled_aoh
          { name:  "Kate Gompert", occupation: "None" },
          { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
-    job =[]
+    
 end
 
 def literal_aoh
@@ -29,7 +29,7 @@ def literal_aoh
          { name:  "Kate Gompert", occupation: "None" },
          { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
-    job[:name]
+    job=[{}]
 end
 
 def aoh_lookup(aoh, row, key)
